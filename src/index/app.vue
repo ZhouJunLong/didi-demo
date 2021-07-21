@@ -34,7 +34,7 @@
     },
     mounted(){
       Storage.set("key1", "value1111");
-      
+      console.log('2222222');
     }
   }
 </script>
